@@ -1,0 +1,14 @@
+C:\Users\Vmoraes\Documents\Visual Studio 2013\Projects\BebaVinho\BebaVinho.Infrastructure\bin\Release\BebaVinho.Infrastructure.dll.config
+C:\Users\Vmoraes\Documents\Visual Studio 2013\Projects\BebaVinho\BebaVinho.Infrastructure\bin\Release\BebaVinho.Infrastructure.dll
+C:\Users\Vmoraes\Documents\Visual Studio 2013\Projects\BebaVinho\BebaVinho.Infrastructure\bin\Release\BebaVinho.Infrastructure.pdb
+C:\Users\Vmoraes\Documents\Visual Studio 2013\Projects\BebaVinho\BebaVinho.Infrastructure\bin\Release\BebaVinho.DataBase.dll
+C:\Users\Vmoraes\Documents\Visual Studio 2013\Projects\BebaVinho\BebaVinho.Infrastructure\bin\Release\BebaVinho.Domain.dll
+C:\Users\Vmoraes\Documents\Visual Studio 2013\Projects\BebaVinho\BebaVinho.Infrastructure\bin\Release\EntityFramework.dll
+C:\Users\Vmoraes\Documents\Visual Studio 2013\Projects\BebaVinho\BebaVinho.Infrastructure\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Vmoraes\Documents\Visual Studio 2013\Projects\BebaVinho\BebaVinho.Infrastructure\bin\Release\BebaVinho.DataBase.pdb
+C:\Users\Vmoraes\Documents\Visual Studio 2013\Projects\BebaVinho\BebaVinho.Infrastructure\bin\Release\BebaVinho.Domain.pdb
+C:\Users\Vmoraes\Documents\Visual Studio 2013\Projects\BebaVinho\BebaVinho.Infrastructure\bin\Release\EntityFramework.xml
+C:\Users\Vmoraes\Documents\Visual Studio 2013\Projects\BebaVinho\BebaVinho.Infrastructure\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Vmoraes\Documents\Visual Studio 2013\Projects\BebaVinho\BebaVinho.Infrastructure\obj\Release\BebaVinho.Infrastructure.csprojResolveAssemblyReference.cache
+C:\Users\Vmoraes\Documents\Visual Studio 2013\Projects\BebaVinho\BebaVinho.Infrastructure\obj\Release\BebaVinho.Infrastructure.dll
+C:\Users\Vmoraes\Documents\Visual Studio 2013\Projects\BebaVinho\BebaVinho.Infrastructure\obj\Release\BebaVinho.Infrastructure.pdb

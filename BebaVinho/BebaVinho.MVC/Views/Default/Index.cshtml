@@ -1,0 +1,220 @@
+﻿@{
+    ViewBag.Title = "Principal";
+}
+
+@*<div class="row" id="dvIndexData">
+        <div class="col-lg-12">
+            <h1 class="page-header" style="font-family: Verdana">Vinhos</h1>
+        </div>
+    </div>*@
+
+<link href="~/Content/Site.css" rel="stylesheet" type="text/css" />
+<link href="~/Content/style.css" rel="stylesheet" type="text/css" />
+
+<div class="" style="margin-top: 30px">
+    <div id="content-6" class="content container">
+        <div class="row" style="margin-top: 30px; margin-left: 10px">
+            <font class="Static_Bold_30 RedBlk">Vitrine</font>
+            <font class="Static_18">Veja nossas promoções</font>
+            <font class="Static_Bold_30 RedBlk" style="margin-left: 630px;">Total</font>
+            <img src="~/Content/Images/carrello.png" />
+            <font id="fTotalCart" class="Static_18 RedBlk">0</font>
+            <input type="image" id="inputClean" src="~/Content/Images/lixeira.png" alt="Limpar carrinho" title="Limpar carrinho" style="border: none;" />
+        </div>
+        <div id="dvData" class="row">
+            <div class="col-md-3 box1" style="height: 320px; width:350px">
+                <div class="img_bott"><a href="@Url.Content("~/Default/Detail")"><img src="~/Content/Images/prod_1.png" title="Detalhes" /></a></div>
+                <div class="title"><font class="Static_Bold_30 RedBlk">Terre Brune</font></div>
+                <div class="text">
+                    <font class="Myriad_Pro_14 RedBlk">
+                        Carignano del Sulcis<br>
+                        DOC Superiore<br>
+                        Ano: 2011<br>
+                        Região: Sardegna<br>
+                        <b class="Myriad_Pro_16">Quantidate: <span class="count-cart">0</span></b>
+                        <button title="Editar" value="editar" class="actions-cart"><span class="glyphicon glyphicon-pencil"></span></button>
+                    </font>
+                </div>
+                <div class="img_bott_qt"><img src="~/Content/Images/bt_qt_1.png" title="Detalhes" /></div>
+                <div class="price"><font class="Static_Bold_20 RedBlk">€ 38.00</font></div>
+                <button title="Carrinho">
+                    <div class="txt_carr"><font class="Static_Bold_22 RedBlk">CARRINHO</font></div>
+                    <div class="carr"><img src="~/Content/Images/carrello.png" /></div>
+                </button>
+                <input type="hidden" value="1"/>
+            </div>
+            <div class="col-md-3 box1" style="height: 320px; width:350px">
+                <div class="img_bott"><a href="prodotto.php?id=1"><img src="~/Content/Images/prod_1.png" title="Detalhes" /></a></div>
+                <div class="title"><font class="Static_Bold_30 RedBlk">Terre Brune</font></div>
+                <div class="text">
+                    <font class="Myriad_Pro_14 RedBlk">
+                        Carignano del Sulcis<br>
+                        DOC Superiore<br>
+                        Ano: 2011<br>
+                        Região: Sardegna<br>
+                        <b class="Myriad_Pro_16">Quantidate: <span class="count-cart">0</span></b>
+                        <button title="Editar" value="editar" class="actions-cart"><span class="glyphicon glyphicon-pencil"></span></button>
+                    </font>
+                </div>
+                <div class="img_bott_qt"><img src="~/Content/Images/bt_qt_1.png" /></div>
+                <div class="price"><font class="Static_Bold_20 RedBlk">€ 38.00</font></div>
+                <button title="Carrinho">
+                    <div class="txt_carr"><font class="Static_Bold_22 RedBlk">CARRINHO</font></div>
+                    <div class="carr"><img src="~/Content/Images/carrello.png" /></div>
+                </button>
+                <input type="hidden" value="2" />
+            </div>
+            <div class="col-md-3 box1" style="height: 320px; width:350px">
+                <div class="img_bott"><a href="prodotto.php?id=1"><img src="~/Content/Images/prod_1.png" title="Detalhes" /></a></div>
+                <div class="title"><font class="Static_Bold_30 RedBlk">Terre Brune</font></div>
+                <div class="text">
+                    <font class="Myriad_Pro_14 RedBlk">
+                        Carignano del Sulcis<br>
+                        DOC Superiore<br>
+                        Ano: 2011<br>
+                        Região: Sardegna<br>
+                        <b class="Myriad_Pro_16">Quantidate: <span class="count-cart">0</span></b>
+                        <button title="Editar" value="editar" class="actions-cart"><span class="glyphicon glyphicon-pencil"></span></button>
+                    </font>
+                </div>
+                <div class="img_bott_qt"><img src="~/Content/Images/bt_qt_1.png" title="Detalhes" /></div>
+                <div class="price"><font class="Static_Bold_20 RedBlk">€ 38.00</font></div>
+                <button title="Carrinho">
+                    <div class="txt_carr"><font class="Static_Bold_22 RedBlk">CARRINHO</font></div>
+                    <div class="carr"><img src="~/Content/Images/carrello.png" /></div>
+                </button>
+                <input type="hidden" value="3" />
+            </div>
+            <div class="col-md-3 box1" style="height: 320px; width:350px">
+                <div class="img_bott"><a href="prodotto.php?id=1"><img src="~/Content/Images/prod_1.png" title="Detalhes" /></a></div>
+                <div class="title"><font class="Static_Bold_30 RedBlk">Terre Brune</font></div>
+                <div class="text">
+                    <font class="Myriad_Pro_14 RedBlk">
+                        Carignano del Sulcis<br>
+                        DOC Superiore<br>
+                        Ano: 2011<br>
+                        Região: Sardegna<br>
+                        <b class="Myriad_Pro_16">Quantidate: <span class="count-cart">0</span></b>
+                        <button title="Editar" value="editar" class="actions-cart"><span class="glyphicon glyphicon-pencil"></span></button>
+                    </font>
+                </div>
+                <div class="img_bott_qt"><img src="~/Content/Images/bt_qt_1.png" /></div>
+                <div class="price"><font class="Static_Bold_20 RedBlk">€ 38.00</font></div>
+                <button title="Carrinho">
+                    <div class="txt_carr"><font class="Static_Bold_22 RedBlk">CARRINHO</font></div>
+                    <div class="carr"><img src="~/Content/Images/carrello.png" /></div>
+                </button>
+                <input type="hidden" value="4" />
+            </div>
+            <div class="col-md-3 box1" style="height: 320px; width:350px">
+                <div class="img_bott"><img src="~/Content/Images/prod_1.png" title="Detalhes" /></div>
+                <div class="title"><font class="Static_Bold_30 RedBlk">Terre Brune</font></div>
+                <div class="text">
+                    <font class="Myriad_Pro_14 RedBlk">
+                        Carignano del Sulcis<br>
+                        DOC Superiore<br>
+                        Ano: 2011<br>
+                        Região: Sardegna<br>
+                        <b class="Myriad_Pro_16">Quantidate: <span class="count-cart">0</span></b>
+                        <button title="Editar" value="editar" class="actions-cart"><span class="glyphicon glyphicon-pencil"></span></button>
+                    </font>
+                </div>
+                <div class="img_bott_qt"><img src="~/Content/Images/bt_qt_1.png" /></div>
+                <div class="price"><font class="Static_Bold_20 RedBlk">€ 38.00</font></div>
+                <button title="Carrinho">
+                    <div class="txt_carr"><font class="Static_Bold_22 RedBlk">CARRINHO</font></div>
+                    <div class="carr"><img src="~/Content/Images/carrello.png" /></div>
+                </button>
+                <input type="hidden" value="5" />
+            </div>
+            <div class="col-md-3 box1" style="height: 320px; width:350px">
+                <div class="img_bott"><img src="~/Content/Images/prod_1.png" title="Detalhes" /></div>
+                <div class="title"><font class="Static_Bold_30 RedBlk">Terre Brune</font></div>
+                <div class="text">
+                    <font class="Myriad_Pro_14 RedBlk">
+                        Carignano del Sulcis<br>
+                        DOC Superiore<br>
+                        Ano: 2011<br>
+                        Região: Sardegna<br>
+                        <b class="Myriad_Pro_16">Quantidate: <span class="count-cart">0</span></b>
+                        <button title="Editar" value="editar" class="actions-cart"><span class="glyphicon glyphicon-pencil"></span></button>
+                    </font>
+                </div>
+                <div class="img_bott_qt"><img src="~/Content/Images/bt_qt_1.png" /></div>
+                <div class="price"><font class="Static_Bold_20 RedBlk">€ 38.00</font></div>
+                <button title="Carrinho">
+                    <div class="txt_carr"><font class="Static_Bold_22 RedBlk">CARRINHO</font></div>
+                    <div class="carr"><img src="~/Content/Images/carrello.png" /></div>
+                </button>
+                <input type="hidden" value="6" />
+            </div>
+        </div>
+        <div id="content-6" class="row" style="margin-top: 12px; text-align:center">
+            <button id="open-confirmation-dialog" class="btn-default Static_Bold_18 RedBlk"><img src="~/Content/Images/carrinho-de-compras.jpg" />Realizar Compra</button>
+        </div>
+    </div>
+
+    <div id="dialog-form" class="container" style="background:#f3f3f3; width: 800px;">
+        <font class="Static_Bold_30 RedBlk">Detalhes da pedido.</font>
+        <div class="row">
+            <div class="col-md-3 box1" style="height: 210px; width:250px">
+                <div class="img_bott"><a href="@Url.Content("~/Default/Detail")"><img src="~/Content/Images/prod_2.png" title="Detalhes" /></a></div>
+                <div class="title"><font class="Static_Bold_30 RedBlk">Terre Brune</font></div>
+                <div class="text">
+                    <font class="Myriad_Pro_14 RedBlk">
+                        Carignano del Sulcis<br>
+                        DOC Superiore<br>
+                        Ano: 2011<br>
+                        Região: Sardegna<br>
+                        <b>Quantidate: <span class="count-cart">0</span></b>
+                        <button title="Editar" value="editar" class="actions-cart"><span class="glyphicon glyphicon-pencil"></span></button>
+                    </font>
+                </div>
+            </div>
+            <div class="col-md-3 box1" style="height: 210px; width:250px">
+                <div class="img_bott"><a href="@Url.Content("~/Default/Detail")"><img src="~/Content/Images/prod_2.png" title="Detalhes" /></a></div>
+                <div class="title"><font class="Static_Bold_30 RedBlk">Terre Brune</font></div>
+                <div class="text">
+                    <font class="Myriad_Pro_14 RedBlk">
+                        Carignano del Sulcis<br>
+                        DOC Superiore<br>
+                        Ano: 2011<br>
+                        Região: Sardegna<br>
+                        <b>Quantidate: <span class="count-cart">0</span></b>
+                        <button title="Editar" value="editar" class="actions-cart"><span class="glyphicon glyphicon-pencil"></span></button>
+                    </font>
+                </div>
+            </div>
+            <div class="col-md-3 box1" style="height: 210px; width:250px">
+                <div class="img_bott"><a href="@Url.Content("~/Default/Detail")"><img src="~/Content/Images/prod_2.png" title="Detalhes" /></a></div>
+                <div class="title"><font class="Static_Bold_30 RedBlk">Terre Brune</font></div>
+                <div class="text">
+                    <font class="Myriad_Pro_14 RedBlk">
+                        Carignano del Sulcis<br>
+                        DOC Superiore<br>
+                        Ano: 2011<br>
+                        Região: Sardegna<br>
+                        <b>Quantidate: <span class="count-cart">0</span></b>
+                        <button title="Editar" value="editar" class="actions-cart"><span class="glyphicon glyphicon-pencil"></span></button>
+                    </font>
+                </div>
+            </div>
+        </div>
+        <br />
+        <div class="row">
+            <div class="col-md-5 Static_17">
+                <p>Favor, insira seus contatos.</p>
+                <br />
+                <p>Telefone para contato</p>
+                <input id="tel-contato" type="tel" />
+                <p>Email para contato</p>
+                <input id="email-contato" type="email" />
+            </div>
+        </div>
+        <div id="content-6" class="row Static_17" style="margin-top: 12px; text-align:center">
+            <p>Logo entraremos em contato</p>
+            <button id="send-email" class="btn-default Static_Bold_18 RedBlk"><img src="~/Content/Images/carrinho-de-compras.jpg" />Enviar email de pedido.</button>
+        </div>
+    </div>
+    <script src="@Url.Content("~/Scripts/Default/product.js")"></script>
+

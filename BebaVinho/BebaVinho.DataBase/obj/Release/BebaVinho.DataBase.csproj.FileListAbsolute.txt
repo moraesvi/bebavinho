@@ -1,0 +1,10 @@
+C:\Users\Vmoraes\Documents\Visual Studio 2013\Projects\BebaVinho\BebaVinho.DataBase\bin\Release\BebaVinho.DataBase.dll.config
+C:\Users\Vmoraes\Documents\Visual Studio 2013\Projects\BebaVinho\BebaVinho.DataBase\bin\Release\BebaVinho.DataBase.dll
+C:\Users\Vmoraes\Documents\Visual Studio 2013\Projects\BebaVinho\BebaVinho.DataBase\bin\Release\BebaVinho.DataBase.pdb
+C:\Users\Vmoraes\Documents\Visual Studio 2013\Projects\BebaVinho\BebaVinho.DataBase\bin\Release\EntityFramework.dll
+C:\Users\Vmoraes\Documents\Visual Studio 2013\Projects\BebaVinho\BebaVinho.DataBase\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Vmoraes\Documents\Visual Studio 2013\Projects\BebaVinho\BebaVinho.DataBase\bin\Release\EntityFramework.xml
+C:\Users\Vmoraes\Documents\Visual Studio 2013\Projects\BebaVinho\BebaVinho.DataBase\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Vmoraes\Documents\Visual Studio 2013\Projects\BebaVinho\BebaVinho.DataBase\obj\Release\BebaVinho.DataBase.csprojResolveAssemblyReference.cache
+C:\Users\Vmoraes\Documents\Visual Studio 2013\Projects\BebaVinho\BebaVinho.DataBase\obj\Release\BebaVinho.DataBase.dll
+C:\Users\Vmoraes\Documents\Visual Studio 2013\Projects\BebaVinho\BebaVinho.DataBase\obj\Release\BebaVinho.DataBase.pdb

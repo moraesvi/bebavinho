@@ -1,0 +1,94 @@
+﻿<main id="content" class="group" role="main">
+    <div class="container">
+        <div class="container" id="pagination">
+            <div class="responsive-banner">
+                <div class="wrapper">
+                    <div id="carousel-home" class="carousel slide" data-ride="carousel">
+                        <div class="carousel-inner" role="listbox">
+                            <div class="item active">
+                                <div class="promo" role="promoDetail">
+                                    <div style="position:relative;height:100%">
+                                        <div style="position:absolute;font-size:25px;color:white;margin:20px" target="_blank"></div>
+                                        <img src="~/Content/new/imagens/home_vinho.jpg" />
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row" style="text-align: right; margin-right: 0.3px;">
+                <input type="image" src="~/Content/Images/carrello.png">
+                <font id="fTotalCart" class="Static_18 RedBlk">0</font>
+                <input id="inputClean" type="image" src="~/Content/Images/lixeira.png" alt="Limpar carrinho" title="Limpar carrinho" />
+            </div>
+
+            <section class="product-collection featured" style="margin-top: 20px;">
+                <p id="pagination-top" class="demo"></p>
+                <div class="row" id="dvData">
+
+                </div>
+                <button id="solicitar-pedido" class="btn-comprar-pedido">
+                    <font class="Static_Bold_20 RedBlk">Solicitar pedido</font>
+                </button>
+                <p id="pagination-bottom" class="demo"></p>
+            </section>
+        </div>
+    </div>
+</main>
+
+<div id="data-template">
+    <div class="col-xs-6 col-sm-3 col-md-3" style="display: none">
+        <div class="product-block">
+            <a role="linkToProduct" href="~/New/Detail"><img class="img-responsive" src="~/Content/new/imagens/vinho_teste_05.png" /></a>
+            <div>
+                <h1><a role="productName">Trio Tempo de Tempranillo</a></h1>
+            </div>
+            <h2 class="h2Regiao"></h2>
+            <h3></h3>
+            <h2><font class="quantidade">Quantidade:&nbsp;<span>0</span></font></h2>
+            <button class="btn-comprar">
+                <font class="Static_Bold_18 RedBlk">Comprar</font>
+            </button>
+            <button title="Definir quantidade" value="editar" class="btn-comprar-def-quant"><span class="glyphicon glyphicon-pencil"></span></button>
+            <input type="hidden" class="product-id" value="2" />
+        </div>
+    </div>
+</div>
+
+<div id="dialog-form">
+    <div style="margin-left:50px;">
+        <font class="Static_Bold_26 RedBlk">Detalhes da pedido.</font>
+        <div class="row" id="dvDataSolicitation">
+            <div class="col-md-3 box1" style="height: 210px; width:250px">
+                <div class="img_bott"><a href="@Url.Content("~/Default/Detail")"><img src="~/Content/Images/prod_2.png" title="Detalhes" /></a></div>
+                <div class="title"><font id="titulo-1" class="Static_Bold_16 RedBlk">Terre Brune</font></div>
+                <div class="text">
+                    <font class="Myriad_Pro_14 RedBlk">
+                        <p style="margin-bottom: 0">Região: <span id="regiao-1"></span></p>
+                        <p style="margin-bottom: 0">Preço Unidade: <span id="preco-unidade-1"></span></p>
+                        <p style="margin-bottom: 0"><b>Total calculado: <span class="total-calculado-1"></span></b></p>
+                        <p>Quantidate: <span id="total-1" style="font-weight: bold;" class="count-cart">0</span></p><button title="Editar" value="editar" class="actions-cart"><span class="glyphicon glyphicon-pencil"></span></button>
+                    </font>
+                </div>
+            </div>
+        </div>
+        <br />
+        <div class="row" style="margin-top: 40px;">
+            <div class="col-md-5 Static_17">
+                <br/>
+                <p style="margin-bottom: 0">Telefone para contato</p>
+                <input id="tel-contato" type="tel" />
+                <p style="margin-bottom: 0">Email para contato</p>
+                <input id="email-contato" type="email" />
+            </div>
+        </div>
+        <div id="content-6" class="row Static_17" style="margin-top: 12px; text-align:center">
+            <p>Logo entraremos em contato</p>
+            <button id="send-email" class="btn-default Static_Bold_18 RedBlk"><img src="~/Content/Images/carrinho-de-compras.jpg" />Enviar email de pedido.</button>
+        </div>
+    </div>
+
+</div>
+<script src="@Url.Content("~/Scripts/New/product.js")"></script>

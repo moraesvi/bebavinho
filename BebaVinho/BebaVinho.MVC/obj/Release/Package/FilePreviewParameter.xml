@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="bebavinho" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\Vmoraes\\Documents\\Visual\ Studio\ 2013\\Projects\\BebaVinho\\BebaVinho\.MVC\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\Vmoraes\\Documents\\Visual\ Studio\ 2013\\Projects\\BebaVinho\\BebaVinho\.MVC\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="BebaVinhoEntities-Web.config Connection String" description="" value="data source=tcp:s6b2escsf6.database.windows.net,1433;initial catalog=bebaVinho;user id=bebaVinho01@s6b2escsf6;password=Bomite01;MultipleActiveResultSets=True;App=EntityFramework" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Vmoraes\\Documents\\Visual\ Studio\ 2013\\Projects\\BebaVinho\\BebaVinho\.MVC\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='BebaVinhoEntities']/@connectionString" />
+  </parameter>
+</parameters>

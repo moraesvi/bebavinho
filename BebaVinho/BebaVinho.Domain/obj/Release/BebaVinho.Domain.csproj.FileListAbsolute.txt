@@ -1,0 +1,5 @@
+C:\Users\Vmoraes\Documents\Visual Studio 2013\Projects\BebaVinho\BebaVinho.Domain\bin\Release\BebaVinho.Domain.dll
+C:\Users\Vmoraes\Documents\Visual Studio 2013\Projects\BebaVinho\BebaVinho.Domain\bin\Release\BebaVinho.Domain.pdb
+C:\Users\Vmoraes\Documents\Visual Studio 2013\Projects\BebaVinho\BebaVinho.Domain\obj\Release\BebaVinho.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Vmoraes\Documents\Visual Studio 2013\Projects\BebaVinho\BebaVinho.Domain\obj\Release\BebaVinho.Domain.dll
+C:\Users\Vmoraes\Documents\Visual Studio 2013\Projects\BebaVinho\BebaVinho.Domain\obj\Release\BebaVinho.Domain.pdb

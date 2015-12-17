@@ -1,0 +1,13 @@
+C:\Users\Vmoraes\Documents\Visual Studio 2013\Projects\BebaVinho\BebaVinho.Business\obj\Debug\BebaVinho.Business.csprojResolveAssemblyReference.cache
+C:\Users\Vmoraes\Documents\Visual Studio 2013\Projects\BebaVinho\BebaVinho.Business\bin\Debug\BebaVinho.Business.dll
+C:\Users\Vmoraes\Documents\Visual Studio 2013\Projects\BebaVinho\BebaVinho.Business\bin\Debug\BebaVinho.Business.pdb
+C:\Users\Vmoraes\Documents\Visual Studio 2013\Projects\BebaVinho\BebaVinho.Business\bin\Debug\BebaVinho.Domain.dll
+C:\Users\Vmoraes\Documents\Visual Studio 2013\Projects\BebaVinho\BebaVinho.Business\bin\Debug\BebaVinho.Infrastructure.dll
+C:\Users\Vmoraes\Documents\Visual Studio 2013\Projects\BebaVinho\BebaVinho.Business\bin\Debug\BebaVinho.DataBase.dll
+C:\Users\Vmoraes\Documents\Visual Studio 2013\Projects\BebaVinho\BebaVinho.Business\bin\Debug\EntityFramework.dll
+C:\Users\Vmoraes\Documents\Visual Studio 2013\Projects\BebaVinho\BebaVinho.Business\bin\Debug\BebaVinho.Domain.pdb
+C:\Users\Vmoraes\Documents\Visual Studio 2013\Projects\BebaVinho\BebaVinho.Business\bin\Debug\BebaVinho.Infrastructure.pdb
+C:\Users\Vmoraes\Documents\Visual Studio 2013\Projects\BebaVinho\BebaVinho.Business\bin\Debug\BebaVinho.DataBase.pdb
+C:\Users\Vmoraes\Documents\Visual Studio 2013\Projects\BebaVinho\BebaVinho.Business\bin\Debug\EntityFramework.xml
+C:\Users\Vmoraes\Documents\Visual Studio 2013\Projects\BebaVinho\BebaVinho.Business\obj\Debug\BebaVinho.Business.dll
+C:\Users\Vmoraes\Documents\Visual Studio 2013\Projects\BebaVinho\BebaVinho.Business\obj\Debug\BebaVinho.Business.pdb

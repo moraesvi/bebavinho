@@ -1,0 +1,67 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>bebavinho @ViewBag.Title</title>
+    <link href="~/Content/screen.css" rel="stylesheet" type="text/css" />
+    <link href="~/Content/screen_menu.css" rel="stylesheet" type="text/css" />
+    <link href="~/Content/font.css" rel="stylesheet" type="text/css" />
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <link href="~/Content/jquery-ui.min.css" rel="stylesheet" type="text/css" />
+    <link href="~/Content/jquery.ui.dialog.min.css" rel="stylesheet" type="text/css" />
+    <link href="~/Content/jquery.ui.theme.min.css" rel="stylesheet" type="text/css" />
+    <link href="Content/jquery.ui.dialog.min.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" media="screen" href="~/Content/new/bootstrap-3.3.5-dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" media="screen" href="~/Content/new/vinhos.css" />
+    <script src="~/Scripts/modernizr-2.6.2.js"></script>
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+    <script src="~/Scripts/jquery-ui.min.js"></script>
+    <script src="~/Scripts/jquery.ui.dialog.min.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+    <script src="~/Scripts/jquery.bootpag.min.js"></script>
+    <script src="~/Scripts/New/product.js"></script>
+
+    <style>
+        .navbar-background {
+            background-color: #263831;
+        }
+    </style>
+</head>
+<body class="div-index">
+    <nav class="navbar navbar-inverse navbar-background navbar-fixed-top navbar" role="navigation">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand Static_20" id="btnHome" href="@Url.Content("~/")">bebavinho</a>
+            </div>
+            <div class="collapse navbar-collapse" style="font-size: 20px" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav Static_20">
+                    <li>
+                        <a href="@Url.Content("~/Default/Sobre")">Sobre</a>
+                    </li>
+                    <li>
+                        <a href="@Url.Content("~/Default/Contato")">Contato</a>
+                    </li>
+                </ul>
+            </div>           
+        </div>
+    </nav>
+
+
+    <div class="container">
+        <div class="app">
+            @RenderBody()
+            <hr />
+            <footer class="row">
+                <p class="Static_18">&copy; @DateTime.Now.Year - Copyright bebavinho.com.br - Francesco Cekin - Victor Moraes</p>
+            </footer>
+        </div>
+    </div>
+</body>
+</html>

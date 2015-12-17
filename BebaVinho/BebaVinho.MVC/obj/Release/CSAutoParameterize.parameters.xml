@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="BebaVinhoEntities-Web.config Connection String" description="BebaVinhoEntities Connection String used in web.config by the application to access the database." defaultValue="Data Source=(local);Initial Catalog=bebaVinho;Integrated Security=True;MultipleActiveResultSets=True;App=EntityFramework" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Vmoraes\\Documents\\Visual\ Studio\ 2013\\Projects\\BebaVinho\\BebaVinho\.MVC\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='BebaVinhoEntities']/@connectionString" />
+  </parameter>
+</parameters>

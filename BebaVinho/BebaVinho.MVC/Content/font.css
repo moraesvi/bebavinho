@@ -1,0 +1,234 @@
+/* CSS Document */
+/* Definizione dei font globali del documento */
+
+@font-face {
+    font-family: 'Static';
+    src: url('fonts/Static.otf');
+    font-weight: 100;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Static_Bold';
+    src: url('fonts/Static_Bold.otf');
+    font-weight: 100;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Static_Italic';
+    src: url('fonts/Static_Italic.otf');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Static_Bold_Italic';
+    src: url('fonts/Static_Bold_Italic.otf');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+	font-family: 'Helvetica_LT';
+	src: url('fonts/Helvetica_LT.eot');
+	src: local('☺'), url('fonts/Helvetica_LT.woff') format('woff'), url('fonts/Helvetica_LT.ttf') format('truetype'), url('fonts/Helvetica_LT.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+font-family: 'Myriad Pro Regular';
+font-style: normal;
+font-weight: normal;
+src: local('Myriad Pro Regular'), url('fonts/MYRIADPRO-REGULAR.woff') format('woff');
+}
+@font-face {
+font-family: 'Myriad Pro Bold';
+font-style: normal;
+font-weight: normal;
+src: local('Myriad Pro Bold'), url('fonts/MYRIADPRO-BOLD.woff') format('woff');
+}
+
+
+html, body{
+	font-family: 'Static';
+	font-size:18px;
+	color:#000;
+}
+
+
+.Red{
+	color:#8e0917;
+}
+.Blak{
+	color:#781712;
+}
+.Black{
+	color:#000;
+}
+.RedBlk{
+	color:#520400;
+}
+.Brown{
+	color:#781712;
+}
+.Cream{
+	color:#e7e5cf;
+}
+.CreamOP{
+	color:#e7e5cf;
+	opacity:0.6;
+}
+.Grey{
+	color:#9e9e9e;
+}
+.White{
+	color:#fff;
+}
+.YellowLht{
+	color:#e7e5cf;
+}
+.GoldBlk{
+	color:#947b28;
+}
+
+.Myriad_Pro_Bold_14{
+	font-family: 'Myriad Pro Bold';
+	font-size:14px;
+}
+.Myriad_Pro_Bold_16{
+	font-family: 'Myriad Pro Bold';
+	font-size:16px;
+}
+.Myriad_Pro_Bold_20{
+	font-family: 'Myriad Pro Bold';
+	font-size:20px;
+}
+.Myriad_Pro_14{
+	font-family: 'Myriad Pro Regular';
+	font-size:14px;
+}
+.Myriad_Pro_15{
+	font-family: 'Myriad Pro Regular';
+	font-size:15px;
+}
+.Myriad_Pro_16{
+	font-family: 'Myriad Pro Regular';
+	font-size:16px;
+}
+.Myriad_Pro_17{
+	font-family: 'Myriad Pro Regular';
+	font-size:17px;
+}
+.Myriad_Pro_18{
+	font-family: 'Myriad Pro Regular';
+	font-size:18px;
+}
+.Myriad_Pro_22{
+	font-family: 'Myriad Pro Regular';
+	font-size:22px;
+}
+
+.Static_15{
+	font-family: 'Static';
+	font-size:15px;
+}
+.Static_16{
+	font-family: 'Static';
+	font-size:16px;
+}
+.Static_17{
+	font-family: 'Static';
+	font-size:17px;
+}
+.Static_18{
+	font-family: 'Static';
+	font-size:18px;
+}
+.Static_19{
+	font-family: 'Static';
+	font-size:19px;
+}
+.Static_20{
+	font-family: 'Static';
+	font-size:20px;
+}
+.Static_21{
+	font-family: 'Static';
+	font-size:21px;
+}
+.Static_22{
+	font-family: 'Static';
+	font-size:22px;
+}
+.Static_Bold_16{
+	font-family: 'Static';
+	font-size:16px;
+	font-weight: 600;
+}
+.Static_Bold_17{
+	font-family: 'Static';
+	font-size:17px;
+	font-weight: 600;
+}
+.Static_Bold_18{
+	font-family: 'Static';
+	font-size:18px;
+	font-weight: 600;
+}
+.Static_Bold_19{
+	font-family: 'Static';
+	font-size:19px;
+	font-weight: 600;
+}
+.Static_Bold_20{
+	font-family: 'Static';
+	font-size:20px;
+	font-weight: 600;
+}
+.Static_Bold_22{
+	font-family: 'Static';
+	font-size:22px;
+	font-weight: 600;
+}
+.Static_Bold_23{
+	font-family: 'Static';
+	font-size:23px;
+	font-weight: 600;
+}
+.Static_Bold_25{
+	font-family: 'Static';
+	font-size:25px;
+	font-weight:600;
+}
+.Static_Bold_26{
+	font-family: 'Static';
+	font-size:26px;
+	font-weight: 600;
+}
+.Static_Bold_28{
+	font-family: 'Static';
+	font-size:28px;
+	font-weight: 600;
+}
+.Static_Bold_30{
+	font-family: 'Static';
+	font-size:28px;
+	font-weight: 600;
+}
+.Static_Bold_35{
+	font-family: 'Static';
+	font-size:35px;
+	font-weight: 600;
+}
+.Static_Bold_36{
+	font-family: 'Static';
+	font-size:36px;
+	font-weight: 600;
+}
+.Static_Bold_45{
+	font-family: 'Static';
+	font-size:45px;
+	font-weight: 600;
+}
+.Helvetica_13{
+	font-family: 'Helvetica_LT';
+	font-size:13px;
+}
+

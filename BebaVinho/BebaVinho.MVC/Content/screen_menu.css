@@ -1,0 +1,116 @@
+/* Easy Slider */
+
+	#slider_menu ul, #slider_menu li,
+	#slider2_menu ul, #slider2_menu li{
+		margin:0;
+		padding:0;
+		list-style:none;
+		width:960px;
+		height:450px;
+		}
+	#slider_menu {
+		position:absolute;
+		left:20px;
+		top:0px;
+		z-index:10;
+	}	
+	#slider2_menu {
+		position:absolute;
+		left:25px;
+		top:0px;
+		z-index:9;
+	}	
+	#slider_menu li, #slider2_menu li{ 
+		/* 
+			define width and height of list item (slide)
+			entire slider area will adjust according to the parameters provided here
+		*/ 
+		
+		width:960px;
+		height:450px;
+		overflow:hidden; 
+		}	
+													
+	#prevBtn_menu a,  #slider1prev_menu a{  
+		display:block;
+		position:absolute;
+		top:235px;
+		left:25px;
+		width:45px;
+		height:50px;
+		background:url(../images/left.png) no-repeat 0 0;
+		z-index:9;	
+		}	
+	#nextBtn_menu a, #slider1next_menu a{ 
+		display:block;
+		position:absolute;
+		top:235px;
+		left:930px;
+		width:45px;
+		height:50px;
+		background:url(../images/right.png) no-repeat 0 0;	
+		z-index:9;
+		}	
+	.box-out-gallery{
+		position:absolute;
+		height:50px;
+		padding-left:15px;
+		padding-right:15px;
+		padding-top:12px;
+		top: 438px;
+  		left: 809px;
+		z-index:9;
+	
+	}	
+	/* numeric controls */	
+
+	ol#controls_menu{
+		margin:1em 0;
+		padding:0;
+		height:28px;	
+		}
+	ol#controls_menu li{
+		margin:0 10px 0 0; 
+		padding:0;
+		float:left;
+		list-style:none;
+		height:28px;
+		line-height:28px;
+		}
+	ol#controls_menu li a{
+		float:left;
+		height:28px;
+		line-height:28px;
+		border:1px solid #ccc;
+		background:#DAF3F8;
+		color:#555;
+		padding:0 10px;
+		text-decoration:none;
+		}
+	ol#controls_menu li.current a{
+		background:#5DC9E1;
+		color:#fff;
+		}
+	ol#controls_menu li a:focus, #prevBtn_menu a:focus, #nextBtn_menu a:focus{outline:none;}
+	
+/* // Easy Slider */
+
+#clickme_chiudi{
+	position:absolute;
+	top:18px;
+	left:880px;
+	
+}
+
+#lg_Sale_Hotel{
+	position:absolute;
+	top:364px;
+	left:736px;
+	
+}
+
+#pallino{
+	position:absolute;
+	top:435px;
+	left:862px;
+}

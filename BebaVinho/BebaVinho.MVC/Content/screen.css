@@ -1,0 +1,92 @@
+
+/* Easy Slider */
+
+	#slider1 ul, #slider1 li,
+	#slider2 ul, #slider2 li,
+	#slider3 ul, #slider3 li,
+	#slider4 ul, #slider4 li,
+	#slider5 ul, #slider5 li{
+		margin:0;
+		padding:0;
+		height:600px;
+		list-style:none;
+		z-index:1000;
+		}
+	
+	#slider1 li, #slider2 li, #slider3 li, #slider4 li, #slider5 li{ 
+		/* 
+			define width and height of list item (slide)
+			entire slider area will adjust according to the parameters provided here
+		*/ 
+		
+		width:1000px;
+		height:600px;
+		overflow:hidden; 
+		z-index:1000; 
+		}	
+	#prevBtn, #nextBtn,
+	#slider1next, #slider1prev,
+	#slider2next, #slider2prev,
+	#slider3next, #slider3prev,
+	#slider4next, #slider4prev,
+	#slider5next, #slider5prev{ 
+		width:30px;
+		height:77px;
+		position:absolute;
+		left:0px;
+		top:0px;
+		z-index:1000;
+		}	
+	#prevBtn a,  #slider1prev a, #slider2prev a, #slider3prev a, #slider4prev a, #slider5prev a{  
+		display:block;
+		position:absolute;
+		top:280px;
+		left:10px;
+		width:43px;
+		height:43px;
+		background:url(../images/left1.png) no-repeat 0 0;	
+		z-index:1000;
+		}	
+	#nextBtn a, #slider1next a, #slider2next a, #slider3next a, #slider4next a, #slider5next a{ 
+		display:block;
+		position:absolute;
+		top:280px;
+		left:947px;
+		width:43px;
+		height:43px;
+		background:url(../images/right1.png) no-repeat 0 0;	
+		z-index:1000;
+		}	
+		
+	/* numeric controls */	
+
+	ol#controls{
+		margin:1em 0;
+		padding:0;
+		height:28px;	
+		}
+	ol#controls li{
+		margin:0 10px 0 0; 
+		padding:0;
+		float:left;
+		list-style:none;
+		height:28px;
+		line-height:28px;
+		}
+	ol#controls li a{
+		float:left;
+		height:28px;
+		line-height:28px;
+		border:1px solid #ccc;
+		background:#DAF3F8;
+		color:#555;
+		padding:0 10px;
+		text-decoration:none;
+		}
+	ol#controls li.current a{
+		background:#5DC9E1;
+		color:#fff;
+		}
+	ol#controls li a:focus, #prevBtn a:focus, #nextBtn a:focus{outline:none;}
+	
+/* // Easy Slider */
