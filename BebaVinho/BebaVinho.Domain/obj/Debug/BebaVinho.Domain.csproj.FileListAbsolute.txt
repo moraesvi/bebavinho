@@ -3,3 +3,8 @@ C:\Users\Vmoraes\Documents\Visual Studio 2013\Projects\BebaVinho\BebaVinho.Domai
 C:\Users\Vmoraes\Documents\Visual Studio 2013\Projects\BebaVinho\BebaVinho.Domain\obj\Debug\BebaVinho.Domain.dll
 C:\Users\Vmoraes\Documents\Visual Studio 2013\Projects\BebaVinho\BebaVinho.Domain\obj\Debug\BebaVinho.Domain.pdb
 C:\Users\Vmoraes\Documents\Visual Studio 2013\Projects\BebaVinho\BebaVinho.Domain\obj\Debug\BebaVinho.Domain.csprojResolveAssemblyReference.cache
+C:\bebavinho\BebaVinho\BebaVinho.Domain\bin\Debug\BebaVinho.Domain.dll
+C:\bebavinho\BebaVinho\BebaVinho.Domain\bin\Debug\BebaVinho.Domain.pdb
+C:\bebavinho\BebaVinho\BebaVinho.Domain\obj\Debug\BebaVinho.Domain.csprojResolveAssemblyReference.cache
+C:\bebavinho\BebaVinho\BebaVinho.Domain\obj\Debug\BebaVinho.Domain.dll
+C:\bebavinho\BebaVinho\BebaVinho.Domain\obj\Debug\BebaVinho.Domain.pdb

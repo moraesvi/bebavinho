@@ -28,3 +28,33 @@ C:\Users\Vmoraes\Documents\Visual Studio 2013\Projects\BebaVinho\BebaVinho.MVC\b
 C:\Users\Vmoraes\Documents\Visual Studio 2013\Projects\BebaVinho\BebaVinho.MVC\bin\BebaVinho.DataBase.pdb
 C:\Users\Vmoraes\Documents\Visual Studio 2013\Projects\BebaVinho\BebaVinho.MVC\obj\Debug\BebaVinho.MVC.dll
 C:\Users\Vmoraes\Documents\Visual Studio 2013\Projects\BebaVinho\BebaVinho.MVC\obj\Debug\BebaVinho.MVC.pdb
+C:\bebavinho\BebaVinho\BebaVinho.MVC\bin\BebaVinho.MVC.dll.config
+C:\bebavinho\BebaVinho\BebaVinho.MVC\bin\BebaVinho.MVC.dll
+C:\bebavinho\BebaVinho\BebaVinho.MVC\bin\BebaVinho.MVC.pdb
+C:\bebavinho\BebaVinho\BebaVinho.MVC\bin\BebaVinho.Business.dll
+C:\bebavinho\BebaVinho\BebaVinho.MVC\bin\BebaVinho.Domain.dll
+C:\bebavinho\BebaVinho\BebaVinho.MVC\bin\EntityFramework.dll
+C:\bebavinho\BebaVinho\BebaVinho.MVC\bin\EntityFramework.SqlServer.dll
+C:\bebavinho\BebaVinho\BebaVinho.MVC\bin\System.Web.Helpers.dll
+C:\bebavinho\BebaVinho\BebaVinho.MVC\bin\System.Web.Mvc.dll
+C:\bebavinho\BebaVinho\BebaVinho.MVC\bin\System.Web.Razor.dll
+C:\bebavinho\BebaVinho\BebaVinho.MVC\bin\System.Web.Webpages.Deployment.dll
+C:\bebavinho\BebaVinho\BebaVinho.MVC\bin\System.Web.Webpages.dll
+C:\bebavinho\BebaVinho\BebaVinho.MVC\bin\System.Web.Webpages.Razor.dll
+C:\bebavinho\BebaVinho\BebaVinho.MVC\bin\BebaVinho.Infrastructure.dll
+C:\bebavinho\BebaVinho\BebaVinho.MVC\bin\BebaVinho.DataBase.dll
+C:\bebavinho\BebaVinho\BebaVinho.MVC\bin\BebaVinho.Business.pdb
+C:\bebavinho\BebaVinho\BebaVinho.MVC\bin\BebaVinho.Domain.pdb
+C:\bebavinho\BebaVinho\BebaVinho.MVC\bin\EntityFramework.xml
+C:\bebavinho\BebaVinho\BebaVinho.MVC\bin\EntityFramework.SqlServer.xml
+C:\bebavinho\BebaVinho\BebaVinho.MVC\bin\System.Web.Razor.xml
+C:\bebavinho\BebaVinho\BebaVinho.MVC\bin\System.Web.Webpages.xml
+C:\bebavinho\BebaVinho\BebaVinho.MVC\bin\System.Web.Webpages.Deployment.xml
+C:\bebavinho\BebaVinho\BebaVinho.MVC\bin\System.Web.Webpages.Razor.xml
+C:\bebavinho\BebaVinho\BebaVinho.MVC\bin\System.Web.Helpers.xml
+C:\bebavinho\BebaVinho\BebaVinho.MVC\bin\System.Web.Mvc.xml
+C:\bebavinho\BebaVinho\BebaVinho.MVC\bin\BebaVinho.Infrastructure.pdb
+C:\bebavinho\BebaVinho\BebaVinho.MVC\bin\BebaVinho.DataBase.pdb
+C:\bebavinho\BebaVinho\BebaVinho.MVC\obj\Debug\BebaVinho.MVC.csprojResolveAssemblyReference.cache
+C:\bebavinho\BebaVinho\BebaVinho.MVC\obj\Debug\BebaVinho.MVC.dll
+C:\bebavinho\BebaVinho\BebaVinho.MVC\obj\Debug\BebaVinho.MVC.pdb

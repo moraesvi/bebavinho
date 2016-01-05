@@ -12,3 +12,17 @@ C:\Users\Vmoraes\Documents\Visual Studio 2013\Projects\BebaVinho\BebaVinho.Infra
 C:\Users\Vmoraes\Documents\Visual Studio 2013\Projects\BebaVinho\BebaVinho.Infrastructure\obj\Debug\BebaVinho.Infrastructure.csprojResolveAssemblyReference.cache
 C:\Users\Vmoraes\Documents\Visual Studio 2013\Projects\BebaVinho\BebaVinho.Infrastructure\obj\Debug\BebaVinho.Infrastructure.dll
 C:\Users\Vmoraes\Documents\Visual Studio 2013\Projects\BebaVinho\BebaVinho.Infrastructure\obj\Debug\BebaVinho.Infrastructure.pdb
+C:\bebavinho\BebaVinho\BebaVinho.Infrastructure\bin\Debug\BebaVinho.Infrastructure.dll.config
+C:\bebavinho\BebaVinho\BebaVinho.Infrastructure\bin\Debug\BebaVinho.Infrastructure.dll
+C:\bebavinho\BebaVinho\BebaVinho.Infrastructure\bin\Debug\BebaVinho.Infrastructure.pdb
+C:\bebavinho\BebaVinho\BebaVinho.Infrastructure\bin\Debug\BebaVinho.DataBase.dll
+C:\bebavinho\BebaVinho\BebaVinho.Infrastructure\bin\Debug\BebaVinho.Domain.dll
+C:\bebavinho\BebaVinho\BebaVinho.Infrastructure\bin\Debug\EntityFramework.dll
+C:\bebavinho\BebaVinho\BebaVinho.Infrastructure\bin\Debug\EntityFramework.SqlServer.dll
+C:\bebavinho\BebaVinho\BebaVinho.Infrastructure\bin\Debug\BebaVinho.DataBase.pdb
+C:\bebavinho\BebaVinho\BebaVinho.Infrastructure\bin\Debug\BebaVinho.Domain.pdb
+C:\bebavinho\BebaVinho\BebaVinho.Infrastructure\bin\Debug\EntityFramework.xml
+C:\bebavinho\BebaVinho\BebaVinho.Infrastructure\bin\Debug\EntityFramework.SqlServer.xml
+C:\bebavinho\BebaVinho\BebaVinho.Infrastructure\obj\Debug\BebaVinho.Infrastructure.csprojResolveAssemblyReference.cache
+C:\bebavinho\BebaVinho\BebaVinho.Infrastructure\obj\Debug\BebaVinho.Infrastructure.dll
+C:\bebavinho\BebaVinho\BebaVinho.Infrastructure\obj\Debug\BebaVinho.Infrastructure.pdb

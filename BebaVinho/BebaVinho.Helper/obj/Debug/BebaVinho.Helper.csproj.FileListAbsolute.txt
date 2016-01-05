@@ -3,3 +3,8 @@ C:\Users\Vmoraes\Documents\Visual Studio 2013\Projects\BebaVinho\BebaVinho.Helpe
 C:\Users\Vmoraes\Documents\Visual Studio 2013\Projects\BebaVinho\BebaVinho.Helper\obj\Debug\BebaVinho.Helper.dll
 C:\Users\Vmoraes\Documents\Visual Studio 2013\Projects\BebaVinho\BebaVinho.Helper\obj\Debug\BebaVinho.Helper.pdb
 C:\Users\Vmoraes\Documents\Visual Studio 2013\Projects\BebaVinho\BebaVinho.Helper\obj\Debug\BebaVinho.Helper.csprojResolveAssemblyReference.cache
+C:\bebavinho\BebaVinho\BebaVinho.Helper\bin\Debug\BebaVinho.Helper.dll
+C:\bebavinho\BebaVinho\BebaVinho.Helper\bin\Debug\BebaVinho.Helper.pdb
+C:\bebavinho\BebaVinho\BebaVinho.Helper\obj\Debug\BebaVinho.Helper.csprojResolveAssemblyReference.cache
+C:\bebavinho\BebaVinho\BebaVinho.Helper\obj\Debug\BebaVinho.Helper.dll
+C:\bebavinho\BebaVinho\BebaVinho.Helper\obj\Debug\BebaVinho.Helper.pdb
