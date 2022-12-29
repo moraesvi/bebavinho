@@ -1,3 +1,3 @@
 Wine E-commerce.
-Builded in .net C# and JavaScript
-Powered by Microsoft Azure
+<br />Builded in .net C# and JavaScript
+<br />Powered by Microsoft Azure
